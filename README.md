@@ -10,4 +10,3 @@
 - 📫 How to reach me: email me at patelhuzefa085@gmail.com or huzaifapatel4242@gmail.com
 - 😄 Pronouns: Huzii
 - ⚡ Fun fact: I am still in commerce 12th standard of GSHSEB board of Gujarat state
--->
