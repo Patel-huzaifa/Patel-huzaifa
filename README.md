@@ -1,6 +1,6 @@
 ## Welcome to a teenager's guthub Profile👋
 
-##MY DETAILS
+## MY DETAILS
 
 - 🔭 I’m currently working on big project like chat application
 - 🌱 I’m currently starting to learn AI/ML
