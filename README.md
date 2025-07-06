@@ -3,7 +3,7 @@
     
 **Patel-huzaifa/Patel-huzaifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##MY DETAILS
 
 - 🔭 I’m currently working on big project like chat application
 - 🌱 I’m currently starting to learn AI/ML
