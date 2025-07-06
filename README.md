@@ -1,7 +1,4 @@
-## Hi there 👋
-
-    
-**Patel-huzaifa/Patel-huzaifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to a teenager's guthub Profile👋
 
 ##MY DETAILS
 
