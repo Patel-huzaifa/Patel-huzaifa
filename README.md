@@ -6,7 +6,7 @@
 ---
 
 ## 🔭 Current Project
-Building a real‑time chat application with React and Next.js.
+Building a Web based code editor with React and Next.js.
 
 ## 🌱 Learning
 Diving into AI/ML fundamentals and experimenting with Python frameworks.
