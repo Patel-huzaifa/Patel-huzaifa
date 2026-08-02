@@ -1,45 +1,55 @@
-# Hi, I’m Huzaifa Patel 👋
+# Hi, I'm Huzaifa Patel 👋
 
-**Pronouns:** he/him • **Location:** Surat, Gujarat  
-**Tech Stack:** HTML · CSS · JavaScript · ReactJS · Next.js · Tailwind CSS  
+**Pronouns:** he/him • **Location:** Surat, Gujarat
+**Currently:** CA Foundation student (preparing for September attempt)
+**Tech Stack:** HTML · CSS · JavaScript · React · Next.js · Tailwind CSS
 
 ---
 
-## 🔭 Current Project
-Building a Web based code editor with React and Next.js.
+## 🔭 Current Focus
+
+Preparing for CA Foundation (Sept attempt) while staying sharp on web dev — building small tools and automations on the side.
 
 ## 🌱 Learning
-Diving into AI/ML fundamentals and experimenting with Python frameworks.
+
+Exploring how automation (Python, Excel/Power BI) can be applied to accounting and finance workflows. Also dabbling in AI/ML fundamentals.
+
+## 💡 Why This Repo Looks Different
+
+I started out purely as a web dev, but I'm now training to become a Chartered Accountant. I'm keeping my technical skills active because I think the future of accounting belongs to people who can also build — not just calculate.
 
 ## 🤝 Collaboration
-Open to teaming up on full‑stack projects.
+
+Open to teaming up on finance x tech projects — dashboards, automation tools, fintech-adjacent builds.
 
 ## 🤔 Seeking Help
-Guidance on AI/ML resources and advanced JavaScript patterns.
+
+Guidance on blending CA/accounting work with practical automation, and pointers on financial markets from experienced folks.
 
 ## 💬 Ask Me About
-Full‑stack development, Next.js optimizations, Tailwind CSS tricks.
+
+CA Foundation prep, full-stack development (React/Next.js), automating repetitive workflows, or how I'm trying to combine both.
 
 ## 📫 Reach Me
-- Email: [patelhuzefa085@gmail.com](mailto:patelhuzefa085@gmail.com)  
-- Email: [huzaifapatel4242@gmail.com](mailto:huzaifapatel4242@gmail.com)  
-- Twitter: [@huzefa_.28](https://twitter.com/huzefa_.28)
+
+- Email: patelhuzefa085@gmail.com
 
 ## ⚡ Fun Fact
-I’m in 12th standard (commerce) on the GSHSEB board.
+
+I'm training to be a Chartered Accountant *and* still shipping code — trying to be the CA who doesn't need to call IT.
 
 ---
 
-**Popular Repositories**
+**Featured Projects**
 
-### 🔒 PasswordManager  
-Web app to manage passwords locally.  
+### 🔒 PasswordManager
+Local password management web app — no cloud, no third parties.
 `JavaScript`
 
-### ☕ get‑me‑coffee  
-Crowdfunding platform like Patreon using Razorpay.  
+### ☕ get-me-coffee
+Patreon-style crowdfunding platform with Razorpay payment integration.
 `JavaScript`
 
-### 🔗 LinkTrimmer  
-Privacy‑focused, no‑registration URL shortener.  
+### 🔗 LinkTrimmer
+Privacy-focused, no-registration URL shortener built for speed and simplicity.
 `JavaScript`
